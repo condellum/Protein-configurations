@@ -1,2 +1,2 @@
 # Protein-configurations
-Master project for the Biophysics course: An Efficient Algorithm for Exploring Protein Configurations with Two and Three Polarities
+Project for the Statistical Biophysics course (Master in Physics of Complex Systems at IFISC-UIB): An Efficient Algorithm for Exploring Protein Configurations with Two and Three Polarities
